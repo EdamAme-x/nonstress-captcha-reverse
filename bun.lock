@@ -4,12 +4,9 @@
     "": {
       "name": "vite-project",
       "devDependencies": {
-        "vite": "npm:rolldown-vite@7.2.5",
+        "vite": "^7.2.5",
       },
     },
-  },
-  "overrides": {
-    "vite": "npm:rolldown-vite@7.2.5",
   },
   "packages": {
     "@emnapi/core": ["@emnapi/core@1.8.0", "", { "dependencies": { "@emnapi/wasi-threads": "1.1.0", "tslib": "^2.4.0" } }, "sha512-ryJnSmj4UhrGLZZPJ6PKVb4wNPAIkW6iyLy+0TRwazd3L1u0wzMe8RfqevAh2HbcSkoeLiSYnOVDOys4JSGYyg=="],
