@@ -1,0 +1,7 @@
+{
+  "name": "nonstress-captcha-reverse",
+  "compatibility_date": "2026-01-03",
+  "assets": {
+    "directory": "./dist/"
+  }
+}
